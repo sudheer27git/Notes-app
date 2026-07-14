@@ -1,0 +1,13 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Full-stack notes-taking app with an Express + JSON-file backend and a React (JSX via in-browser Babel) frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
